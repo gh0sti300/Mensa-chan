@@ -1,4 +1,4 @@
-# 🍝 Mensa-chan
+# Mensa-chan
 
 > A local-first terminal assistant for everyday life.
 
@@ -14,28 +14,28 @@ Everything belongs to you.
 
 Mensa-chan follows a few simple principles.
 
-- 🏠 Local first
-- 🔒 Privacy by design
-- 🧩 Modular architecture
-- ❤️ Long-term maintainability
-- 🤝 Assist, don't replace
+- Local first
+- Privacy by design
+- Modular architecture
+- Long-term maintainability
+- Assist, don't replace
 
 
 ## Planned Modules
 
-### 🍝 Cooking
+### Cooking
 
 Ingredient management, recipe suggestions and pantry organization.
 
-### 📖 Writing
+### Writing
 
 Writing projects, timelines, characters and notes.
 
-### 📝 Notes
+### Notes
 
 Quick capture, search and synchronization.
 
-### 🛠 Utilities
+### Utilities
 
 Small tools that simplify everyday workflows.
 
